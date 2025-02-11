@@ -1,0 +1,274 @@
+body{
+    margin: 0px;
+}
+.contant5{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content:center;
+    margin: 40px 0px ;
+}
+@media screen and (max-width: 450px) {
+    .contant5{
+        display: none;
+    }
+}
+.image2{
+    height: 50px;
+}
+.contant6{
+    font-size: 25px;
+    margin: 0px;
+}
+.contant1{
+    width: 460px;
+    border: 2px solid;
+    border-radius: 8px;
+}
+@media screen and (max-width: 450px) {
+    .contant1{
+        padding-right: 10px;
+    }
+}
+@media screen and (max-width: 350px) {
+    .contant1{
+        padding-right: 15px;
+    }
+}
+.contant3{
+    display: flex;
+    justify-content: center;
+    margin: 17px;
+}
+.contant4{
+    font-size: 25px;
+    margin: 25px 0px 0px 25px;
+}
+@media screen and (max-width: 450px) {
+    .contant4{
+        font-size: 18px;
+    }
+}
+.contant7{
+    margin: 15px 0px 0px 25px;
+}
+.contant2{
+    margin: 10px 0px 0px 25px;
+    /* padding: 0px 59% 0px 0px ; */
+    width: 85%;
+    padding: 7px 6px 7px 6px;
+}
+@media screen and (max-width: 400px) {
+    .contant2{
+        width: 83%;
+    }
+}
+.contant8{
+    margin: 20px 0px 0px 25px;
+    padding: 10px 39%;
+    background-color: #2E0052;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+@media screen and (max-width: 500px) {
+    .contant8{
+        padding: 10px 38.5%;
+    }
+}
+@media screen and (max-width: 456px) {
+    .contant8{
+        padding: 10px 38%;
+    }
+}
+@media screen and (max-width: 422px) {
+    .contant8{
+        padding: 10px 37%;
+    }
+}
+@media screen and (max-width: 355px) {
+    .contant8{
+        padding: 10px 36%;
+    }
+}
+.contant9{
+    font-size: 13px;
+    margin: 15px 0px 25px 25px;
+    padding: 0px 33px 0px 0px ;
+}
+.contant10{
+    width: 18vh;
+    height: 1px;
+    background-color: black;
+    margin: 10px 0px 10px 20px;
+}
+.contant23{
+    width: 18vh;
+    height: 1px;
+    background-color: black;
+    margin: 10px 20px 10px 0px;
+}
+.contant11{
+    margin: 45px 0px;
+    display: flex;
+    gap: 37px;
+    justify-content: center;
+}
+@media screen and (max-width: 577px) {
+    .contant11{
+        gap: 20px;
+    }
+}
+.contant12{
+    margin: 0px;
+}
+@media screen and (max-width: 528px) {
+    .contant12{
+        width:40%;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 420px) {
+    .contant12{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 392px) {
+    .contant12{
+        width: 60%;
+    }
+}
+.contant13{
+    padding: 10px 15%;
+    background-color: #fff;
+    border: 2px solid;
+}
+@media screen and (max-width: 700px) {
+    .contant13{
+        width: 73%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .contant13{
+        width: 91%;
+    }
+}
+@media screen and (min-width: 1083px) {
+    .contant13{
+        width: 47%;
+    }
+}
+@media screen and (min-width: 1150px) {
+    .contant13{
+        width: 44%;
+        padding: 10px 0px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .contant13{
+        width: 41%;
+    }
+}
+@media screen and (min-width: 1303px) {
+    .contant13{
+        width: 38%;
+    }
+}
+@media screen and (min-width: 1403px) {
+    .contant13{
+        width: 36%;
+    }
+}
+@media screen and (min-width: 1500px) {
+    .contant13{
+        width: 33%;
+    }
+}
+@media screen and (min-width: 1620px) {
+    .contant13{
+        width: 30%;
+    }
+}
+.contant14{
+    display: flex;
+    justify-content:center ;
+}
+.contant15{
+    height: 45px;
+    background-color: #2E0052;
+    display: flex;
+    justify-content: center;
+}
+.contant16{
+    color: #fff;
+}
+.contant17{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.contant18{
+    height: 45px;
+    background-color: #2E0052;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 0px 0px 0px 15px;
+    /* justify-content: center; */
+}
+@media screen and (min-width: 450px) {
+    .contant18{
+        display: none;
+    }
+}
+.image3{
+    height: 40px;
+}
+.contant19{
+    color: white;
+    font-size: 20px;
+}
+.contant20{
+    font-size: 35px;
+    margin: 35px 0px 30px 15px;
+}
+@media screen and (min-width: 450px) {
+    .contant20{
+        display: none;
+    }
+}
+.contant21{
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+.contant22{
+    margin: 0px;
+}
+@media screen and (min-width: 450px) {
+    .contant22{
+        display: none;
+    }
+}
+@media screen and (max-width: 450px) {
+    .contant22{
+        font-size: 15px;
+    }
+}
+.contant24{
+    font-size: 15px;
+    margin: 24px 0px 0px 25px;
+    padding: 0px 15px 0px 0px ;
+}
+.contant25{
+    text-align: center;
+    margin: 35px 0px;
+}
+.contant26{
+    font-size: 15px;
+}
+.contant27{
+    font-size: 18px;
+}
