@@ -24,7 +24,7 @@ nextPag.addEventListener("click",()=>{
     }
     localStorage.setItem("userdata", JSON.stringify(value))
 
-    window.location.href = "http://127.0.0.1:5502/Musicart/homePage/index.html"
+    window.location.href = "http://127.0.0.1:5500/homePage/index.html"
     
     inputs.forEach(input =>{
         input.value = ""
